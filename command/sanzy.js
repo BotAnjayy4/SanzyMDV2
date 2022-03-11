@@ -15,7 +15,7 @@ var { performance } = require('perf_hooks')
 var { yta, ytv, servers } = require('../command/y2mate')
 var { smsg, getGroupAdmins, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, delay, format, logic, generateProfilePicture, parseMention, getRandom } = require('../message/myfunc')
 var database = require('../json/database.json')
-var nomorbot = '6288973004570'
+var nomorbot = '+1 (662) 667-8389'
 var simbol = '»'
 var setting = require('../json/setting.json')
 let {
