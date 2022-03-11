@@ -17,20 +17,20 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'owner - sanzy'
-global.owner = ['6281276698054']
-global.packname = 'Sanzy'
-global.author = 'Gemoyy'
+global.ownername = 'Indra>_<'
+global.owner = ['6289667644225']
+global.packname = 'inz'
+global.author = 'Indra>_<'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+admin: 'Cuma Buat Admin Gc',
+    botAdmin: 'Jadiin Gw Admin Baru Bisa',
+    owner: 'Jan Pake Menu Owner',
+    group: 'Di Gc Banh bisanya',
+    private: 'Chat Pribadi bisanya!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-wait: 'Loading...',
+wait: 'Wet Lagi Proses.... ',
 }
 
 let file = require.resolve(__filename)
